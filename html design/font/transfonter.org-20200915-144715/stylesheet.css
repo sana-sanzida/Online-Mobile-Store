@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Batik Gangster';
+    src: url('BatikGangster.woff2') format('woff2'),
+        url('BatikGangster.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
