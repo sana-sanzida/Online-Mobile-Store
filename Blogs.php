@@ -45,14 +45,14 @@
 
             <!-- Primary Navigation -->
             <nav class="navbar navbar-expand-lg bg-light">
-                <a class="navbar-brand" href="TopSale.html"><a class="main-logo" style="color: #F8AF03;">O</a><a class="main-logo" style="color: #09057C;">nline&nbsp;</a> <a class="main-logo" style="color: #F8AF03;">M</a><a class="main-logo" style="color: #09057C;">obile&nbsp;</a> <a class="main-logo" style="color: #F8AF03;">S</a><a class="main-logo" style="color: #09057C;">tore&nbsp;</a>        </a>
+                <a class="navbar-brand" href="TopSale.php"><a class="main-logo" style="color: #F8AF03;">O</a><a class="main-logo" style="color: #09057C;">nline&nbsp;</a> <a class="main-logo" style="color: #F8AF03;">M</a><a class="main-logo" style="color: #09057C;">obile&nbsp;</a> <a class="main-logo" style="color: #F8AF03;">S</a><a class="main-logo" style="color: #09057C;">tore&nbsp;</a>        </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                   <ul class="navbar-nav m-auto font-bletter font-size-20" style="float: right;">
                     <li class="nav-item active">
-                      <a class="nav-link border-left" style="color: #1D8D55;" href="TopSale.html">Top Sale</a>
+                      <a class="nav-link border-left" style="color: #1D8D55;" href="TopSale.php">Top Sale</a>
                     </li>
                     <li class="nav-item">
                       <a class="nav-link border-left" style="color: #1D8D55;" href="#">Category</a>
@@ -61,10 +61,10 @@
                       <a class="nav-link border-left" style="color: #1D8D55;" href="#">Products</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link border-left" style="color: #1D8D55;" href="Blogs.html">Review Blogs</a>
+                        <a class="nav-link border-left" style="color: #1D8D55;" href="Blogs.php">Review Blogs</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link border-left" style="color: #1D8D55;" href="CreateBlog.html">Write Review Blog</a>
+                        <a class="nav-link border-left" style="color: #1D8D55;" href="CreateBlog.php">Write Review Blog</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link border-left" style="color: #1D8D55;" href="#">Category</a>
