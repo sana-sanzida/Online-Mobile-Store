@@ -7,6 +7,8 @@
   }
   /** initializing session */
   session_start();
+  /**supressing an empty string warning */
+  error_reporting(E_ALL ^ E_NOTICE);
   /**getting searched term */
   $searchBlog = $_GET['searchBlog'];
   if(is_null($searchBlog) == 1)
