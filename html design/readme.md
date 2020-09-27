@@ -1,1 +1,0 @@
-Static Demo of the Top Sales and Review Blog can be seen here - https://sana-sanzida.github.io/327project/.
